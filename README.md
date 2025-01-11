@@ -382,6 +382,7 @@ to output a sync map in TextGrid format.
 **Chris Vaughn** contributed the MacOS TTS wrapper.
 
 
+
 All the mighty
 [GitHub contributors](https://github.com/readbeyond/aeneas/graphs/contributors),
 and the members of the
